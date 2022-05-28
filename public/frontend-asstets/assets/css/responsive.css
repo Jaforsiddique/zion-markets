@@ -1,0 +1,607 @@
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+    .features-single-box {
+        width: 239px !important;
+    }
+    /*Quantam_X_Alpha.html-start*/
+    .box-number-algorithm.line-one:before {
+        width: 190px !important;
+        -webkit-transform: rotate( -228deg) !important;
+        transform: rotate( -228deg) !important;
+        right: 20% !important
+    }
+    .responsive-pdf {
+        display: none !important
+    }
+    .research-img {
+        height: 234px;
+        display: flex;
+    }
+    .single-blog-box p {
+        font-size: 14px !important;
+    }
+    .single-blog-box h4 {
+        font-size: 18px !important;
+    }
+    /*Quantam_X_Alpha.html-end*/
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /*index.html-start*/
+    .top-slider-content h1 {
+        font-size: 40px !important;
+        width: 90% !important
+    }
+    .top-slider-content p {
+        font-size: 18px !important;
+        width: 800px !important
+    }
+    .Top-Features {
+        -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+        -ms-grid-row-align: center !important;
+        align-items: center !important;
+        -ms-flex-flow: column !important;
+        flex-flow: column !important
+    }
+    .left-features {
+        text-align: center !important
+    }
+    .left-features img {
+        width: 300px !important
+    }
+    .title h2 {
+        border-bottom: 2px solid #333333;
+        display: inline !important;
+        padding: 5px 20px !important
+    }
+    .top-features-content p {
+        border: 0px !important;
+        margin: 20px 20px !important
+    }
+    .right-features {
+        margin-top: 60px !important
+    }
+    .features-single-box {
+        width: 400px !important
+    }
+    .back-image-watermark img {
+        max-width: 400px !important
+    }
+    .footer-dn {
+        display: none !important
+    }
+    .single-blog-box p {
+        font-size: 14px !important;
+    }
+    .single-blog-box h4 {
+        font-size: 18px !important;
+    }
+    /*index.html-end*/
+    /*Quantam_X_Alpha.html-start*/
+    .without-responsive-pdf {
+        display: none !important
+    }
+    .responsive-pdf {
+        display: unset !important
+    }
+    .single-box-algorithm {
+        -ms-flex-flow: row !important;
+        flex-flow: row !important
+    }
+    .box-number-algorithm.line-one:after {
+        width: 160px;
+        -webkit-transform: rotate( 210deg) !important;
+        transform: rotate( 210deg) !important;
+        height: 20px !important;
+        right: 20% !important;
+        top: -25% !important
+    }
+    .box-number-algorithm.line-one:before {
+        width: 210px !important;
+        height: 20px !important;
+        -webkit-transform: rotate( -226deg) !important;
+        transform: rotate( -226deg) !important;
+        right: 0% !important;
+        top: 120% !important
+    }
+    .need-box-content {
+        margin-right: 0px !important;
+        height: auto !important;
+        margin-bottom: 50px !important;
+        padding: 30px 25px !important;
+    }
+    /*Quantam_X_Alpha.html-end*/
+    /*contact.html-start*/
+    .full-ADDRESS {
+        margin-bottom: 80px !important
+    }
+    .title-light {
+        text-align: center !important
+    }
+    .input-contact {
+        margin: 0px !important
+    }
+    /*contact.html-end*/
+    .research-details {
+        padding: 20px 30px 15px 30px !important;
+        margin-bottom: 15px !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /*index.html-start*/
+    .top-slider-content h1 {
+        font-size: 30px !important;
+        width: 85% !important
+    }
+    .top-slider-content p {
+        font-size: 16px !important;
+        width: 80% !important
+    }
+    .top-slider-content button {
+        font-size: 16px !important
+    }
+    .Top-Features {
+        -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+        -ms-grid-row-align: center !important;
+        align-items: center !important;
+        -ms-flex-flow: column !important;
+        flex-flow: column !important
+    }
+    .left-features {
+        text-align: center !important
+    }
+    .left-features img {
+        width: 300px !important
+    }
+    .title h2 {
+        border-bottom: 2px solid #333333;
+        display: inline !important;
+        padding: 5px 20px !important
+    }
+    .top-features-content p {
+        border: 0px !important;
+        margin: 20px 20px !important
+    }
+    .right-features {
+        margin-top: 60px !important
+    }
+    .features-single-box {
+        width: 308px !important
+    }
+    .main-contact.text-center {
+        width: 100% !important
+    }
+    .back-image-watermark img {
+        max-width: 400px !important
+    }
+    .footer-dn {
+        display: none !important
+    }
+    .single-blog-box {
+        overflow-y: scroll !important
+    }
+    .single-blog-box p {
+        font-size: 14px !important;
+    }
+    .single-blog-box h4 {
+        font-size: 18px !important;
+    }
+    /*index.html-end*/
+    /*Quantam_X_Alpha.html-start*/
+    .without-responsive-pdf {
+        display: none !important
+    }
+    .responsive-pdf {
+        display: unset !important
+    }
+    .box-number-algorithm {
+        display: none !important
+    }
+    .box-content-algorithm {
+        width: 100% !important
+    }
+    .box-content-algorithm {
+        margin: 0px !important
+    }
+    .responsive-table {
+        display: none !important
+    }
+    .need-box-content {
+        margin-right: 0px !important;
+        height: auto !important;
+        margin-bottom: 50px !important;
+        padding: 30px 25px !important;
+    }
+    .table-quantum {
+        width: 100% !important;
+        margin-bottom: 50px !important
+    }
+    /*Quantam_X_Alpha.html-end*/
+    /*About.html-start*/
+    .point-image img {
+        width: 100% !important
+    }
+    .point-content {
+        width: 100% !important;
+        text-align: start !important
+    }
+    /*About.html-end*/
+    /*contact.html-start*/
+    .full-ADDRESS {
+        margin-bottom: 80px !important
+    }
+    .title-light {
+        text-align: center !important
+    }
+    .input-contact {
+        margin: 0 30px !important
+    }
+    /*contact.html-end*/
+    .research-details {
+        padding: 20px 30px 15px 30px !important;
+        margin-bottom: 15px !important;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    h2 {
+        font-size: 30px !important
+    }
+    .owl-dots {
+        display: none !important
+    }
+    /*index.html-start*/
+    .top-slider-content h1 {
+        font-size: 30px !important;
+        width: 100% !important
+    }
+    .top-slider-content p {
+        font-size: 16px !important;
+        width: 100% !important
+    }
+    .top-slider-content button {
+        font-size: 16px !important
+    }
+    .Top-Features {
+        -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+        -ms-grid-row-align: center !important;
+        align-items: center !important;
+        -ms-flex-flow: column !important;
+        flex-flow: column !important
+    }
+    .left-features {
+        text-align: center
+    }
+    .left-features img {
+        width: 300px !important
+    }
+    .title h2 {
+        border-bottom: 2px solid #333333;
+        display: inline !important;
+        padding: 5px 20px !important
+    }
+    .title-content p {
+        width: 100% !important;
+        border: 0px !important;
+        padding: 0px !important
+    }
+    .title-dark h2 {
+        border-bottom: 2px solid white !important;
+        padding-bottom: 10px !important
+    }
+    .top-features-content p {
+        border: 0px !important;
+        margin: 20px 20px !important
+    }
+    .right-features {
+        margin-top: 60px !important
+    }
+    .features-single-box {
+        width: 100% !important
+    }
+    .main-contact.text-center {
+        width: 100% !important
+    }
+    .back-image-watermark img {
+        max-width: 400px !important
+    }
+    .all-list-pdf li {
+        text-align: center !important;
+        border: 0px !important
+    }
+    .footer-dn {
+        display: none !important
+    }
+    .single-blog-box {
+        overflow-y: scroll !important
+    }
+    .bottom-footer-left {
+        text-align: center;
+        margin-bottom: 20px !important
+    }
+    .bottom-footer-right {
+        text-align: center
+    }
+    .download-pdf {
+        margin: 10px 0 !important
+    }
+    .single-blog-box p {
+        font-size: 14px !important;
+    }
+    .single-blog-box h4 {
+        font-size: 18px !important;
+    }
+    /*index.html-end*/
+    /*Quantam_X_Alpha.html-start*/
+    .without-responsive-pdf {
+        display: none !important
+    }
+    .strategy-image-letf img {
+        display: none !important
+    }
+    .responsive-pdf {
+        display: unset !important
+    }
+    .box-number-algorithm {
+        display: none !important
+    }
+    .box-content-algorithm {
+        width: 100% !important
+    }
+    .box-content-algorithm {
+        margin: 0px !important
+    }
+    .responsive-table {
+        display: none !important
+    }
+    .need-box-content {
+        margin-right: 0px !important;
+        height: auto !important;
+        margin-bottom: 50px !important;
+        padding: 30px 25px !important;
+    }
+    .table-quantum {
+        width: 100% !important;
+        margin-bottom: 50px !important
+    }
+    /*Quantam_X_Alpha.html-end*/
+    /*About.html-start*/
+    .point-image img {
+        width: 100% !important
+    }
+    .point-content {
+        width: 100% !important;
+        text-align: start !important
+    }
+    /*About.html-end*/
+    /*contact.html-start*/
+    .full-ADDRESS {
+        margin-bottom: 80px !important
+    }
+    .title-light {
+        text-align: center !important
+    }
+    .input-contact {
+        margin: 0 30px !important
+    }
+    /*contact.html-end*/
+    .research-details {
+        padding: 20px 30px 15px 30px !important;
+        margin-bottom: 15px !important;
+    }
+    .single-blog-box.bgcolor a h4 {
+        font-size: 16px !important;
+    }
+    .single-blog-box.bgcolor p {
+        line-height: 22px !important;
+    }
+}
+
+@media (max-width: 575px) {
+    h2 {
+        font-size: 30px !important
+    }
+    .owl-dots {
+        display: none !important
+    }
+    /*index.html-start*/
+    .top-slider-content {
+        padding: 0 20px !important;
+    }
+    .top-slider-content h1 {
+        font-size: 25px !important;
+        width: 100% !important
+    }
+    .top-slider-content p {
+        font-size: 16px !important;
+        width: 100% !important
+    }
+    .top-slider-content button {
+        font-size: 16px !important
+    }
+    .Top-Features {
+        -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+        -ms-grid-row-align: center !important;
+        align-items: center !important;
+        -ms-flex-flow: column !important;
+        flex-flow: column !important
+    }
+    .left-features {
+        text-align: center !important
+    }
+    .left-features img {
+        width: 300px !important
+    }
+    .title-content p {
+        width: 100% !important;
+        border: 0px !important;
+        padding: 0px !important
+    }
+    .title-dark h2 {
+        border-bottom: 2px solid white !important;
+        padding-bottom: 10px !important
+    }
+    .title h2 {
+        border-bottom: 2px solid #333333;
+        display: inline !important;
+        padding: 5px 20px !important
+    }
+    .top-features-content p {
+        border: 0px !important;
+        margin: 20px 20px !important
+    }
+    .right-features {
+        margin-top: 60px !important
+    }
+    .features-single-box {
+        width: 100% !important
+    }
+    .main-contact.text-center {
+        width: 100% !important
+    }
+    .back-image-watermark img {
+        max-width: 300px !important
+    }
+    .all-list-pdf li {
+        text-align: center !important;
+        border: 0px !important
+    }
+    .footer-dn {
+        display: none !important
+    }
+    .top-right-footer li {
+        -webkit-box-pack: start !important;
+        -ms-flex-pack: start !important;
+        justify-content: flex-start !important;
+    }
+    .top-right-footer {
+        text-align: left !important;
+        margin-top: 30px !important
+    }
+    .top-right-footer li i {
+        display: none !important
+    }
+    .single-blog-box {
+        overflow-y: scroll !important
+    }
+    .bottom-footer-left {
+        text-align: center !important;
+        margin-bottom: 20px !important
+    }
+    .bottom-footer-right {
+        text-align: center !important
+    }
+    .download-pdf {
+        margin: 10px 0 !important
+    }
+    .work-content {
+        margin: 0px !important
+    }
+    .single-blog-box p {
+        font-size: 14px !important;
+    }
+    .single-blog-box h4 {
+        font-size: 18px !important;
+    }
+    /*index.html-end*/
+    /*Quantam_X_Alpha.html-start*/
+    .without-responsive-pdf {
+        display: none !important
+    }
+    .strategy-image-letf img {
+        display: none !important
+    }
+    .responsive-pdf {
+        display: unset !important
+    }
+    .box-number-algorithm {
+        display: none !important
+    }
+    .box-content-algorithm {
+        width: 100% !important
+    }
+    .box-content-algorithm {
+        margin: 0px !important
+    }
+    .responsive-table {
+        display: none !important
+    }
+    .need-box-content {
+        margin-right: 0px !important;
+        height: auto !important;
+        margin-bottom: 50px !important;
+        padding: 30px 25px;
+    }
+    .table-quantum {
+        width: 100% !important;
+        margin-bottom: 50px !important
+    }
+    .download-pdf span {
+        font-size: 16px !important;
+    }
+    /*Quantam_X_Alpha.html-end*/
+    /*About.html-start*/
+    .point-image img {
+        width: 100% !important
+    }
+    .point-content {
+        width: 100% !important;
+        text-align: start !important
+    }
+    .point-image {
+        display: none !important;
+    }
+    .about-image-title-top span {
+        font-size: 16px !important;
+    }
+    /*About.html-end*/
+    /*contact.html-start*/
+    .full-ADDRESS {
+        margin-bottom: 80px !important;
+    }
+    .title-light {
+        text-align: center !important
+    }
+    .input-contact {
+        margin: 0 30px !important
+    }
+    .single-address img {
+        width: 35px !important;
+        margin-right: 15px !important;
+    }
+    /*contact.html-end*/
+    .top-slider-faq-content h1 {
+        font-size: 30px !important;
+    }
+    .top-slider-faq-content {
+        width: 100% !important;
+    }
+    .top-slider-faq-content p {
+        font-size: 16px !important;
+    }
+    .single-blog-box h4 {
+        font-size: 20px !important;
+    }
+    .single-blog-box.bgcolor.main-blog.mt-0.mb-20.aos-init.aos-animate {
+        padding: 12px 10px !important;
+    }
+    .research-details {
+        padding: 20px 30px 15px 30px !important;
+        margin-bottom: 15px !important;
+    }
+    .single-blog-box.bgcolor a h4 {
+        font-size: 16px !important;
+    }
+    .single-blog-box.bgcolor p {
+        line-height: 18px !important;
+    }
+}
+
+
+/*animation off*/
